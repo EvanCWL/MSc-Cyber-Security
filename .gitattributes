@@ -1,0 +1,8 @@
+BertLADO filter=lfs diff=lfs merge=lfs -text
+Colab[[:space:]]Notebooks filter=lfs diff=lfs merge=lfs -text
+NADI2021_DEV.1.0 filter=lfs diff=lfs merge=lfs -text
+NADI2021_TEST.1.0 filter=lfs diff=lfs merge=lfs -text
+arabert-master filter=lfs diff=lfs merge=lfs -text
+bert-base-arabertv2 filter=lfs diff=lfs merge=lfs -text
+bertlado-4dd33c70e8d3.json filter=lfs diff=lfs merge=lfs -text
+brd.docx filter=lfs diff=lfs merge=lfs -text
